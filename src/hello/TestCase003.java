@@ -14,3 +14,4 @@ public class TestCase003 {
     //code finished in feature branch
     //this is merged result, both merged!!
 }
+//This is the changes from Local Intellij
