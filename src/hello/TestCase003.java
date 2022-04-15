@@ -16,3 +16,4 @@ public class TestCase003 {
 }
 
 //This is the change that's done from directly on gitHub.com - trying to create a conflict between local and remote repositories.
+//New changes on Intellij
