@@ -14,3 +14,5 @@ public class TestCase003 {
     //code finished in feature branch
     //this is merged result, both merged!!
 }
+
+//This is the change that's done from directly on gitHub.com - trying to create a conflict between local and remote repositories.
